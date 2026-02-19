@@ -31,4 +31,3 @@ function getWeather() {
             console.log(error);
         });
 }
-
